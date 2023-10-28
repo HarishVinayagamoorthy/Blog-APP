@@ -18,7 +18,7 @@ This is a full-stack Blog application built using the MERN stack (MongoDB, Expre
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/HarishVinayagamoorthy/Blog-APP/tree/Frontend
    ```
 
 2. Navigate to the project directory:
